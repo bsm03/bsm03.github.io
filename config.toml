@@ -38,9 +38,9 @@ summaryLength = 120 # サマリーの長さを120単語にする
   customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.style.vars]
-  highlightColor = "#e22d30" # Override highlight color
+  #highlightColor = "#e22d30" # Override highlight color
   #highlightColor = "#ff9aa2" # Override highlight color
-  #highlightColor = "#177abe" # Override highlight color
+  highlightColor = "#177abe" # Override highlight color
   #highlightColor = "#d60435" # Override highlight color
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
