@@ -57,7 +57,5 @@ draft: false
 
 - [第2回 生体分子シミュレーション・モデリング研究会](https://bsm02.github.io)
 
-- [第60回日本生物物理学会年会](https://www2.aeplan.co.jp/bsj2022/)
-
 - [日本生物物理学会](https://www.biophys.jp)
 

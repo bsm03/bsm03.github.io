@@ -26,7 +26,7 @@ We would like to organize a workshop on biomolecular simulations and modeling in
 
 五十音順
 
-- 岡崎圭一 (代表、分子科学研究所)
+- 岡崎圭一 (2021年度代表、分子科学研究所)
 
 - 近藤寛子（北見工業大学）
 
@@ -34,7 +34,9 @@ We would like to organize a workshop on biomolecular simulations and modeling in
 
 - 高田彰二（京都大学）
 
-- 松永康佑 (副代表、埼玉大学)
+- 松永康佑 (2022年度代表、埼玉大学)
+
+- 森次圭 (2022年度副代表、大阪公立大学)
 
 - 他多数の皆さま
 
