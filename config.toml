@@ -51,7 +51,7 @@ summaryLength = 120 # サマリーの長さを120単語にする
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
   #image = "villin.png" # Logo image. Path relative to "static"
-  image = "vhh.png" # Logo image. Path relative to "static"
+  image = "kuukou.png" # Logo image. Path relative to "static"
   title = "第3回 生体分子シミュレーション・モデリング研究会" # Logo title, otherwise will use site title
   subtitle = "Biomolecular simulation and modeling" # Logo subtitle
 
