@@ -44,5 +44,7 @@ We would like to organize a workshop on biomolecular simulations and modeling in
 
 - [第1回 生体分子シミュレーション・モデリング研究会](https://bsm01.github.io)
 
+- [第2回 生体分子シミュレーション・モデリング研究会](https://bsm02.github.io)
+
 - [日本生物物理学会](https://www.biophys.jp)
 
