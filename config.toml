@@ -40,8 +40,8 @@ summaryLength = 120 # サマリーの長さを120単語にする
 [Params.style.vars]
   #highlightColor = "#e22d30" # Override highlight color
   #highlightColor = "#ff9aa2" # Override highlight color
-  #highlightColor = "#177abe" # Override highlight color
-  highlightColor = "#217d10" # Override highlight color
+  highlightColor = "#177abe" # Override highlight color
+  #highlightColor = "#217d10" # Override highlight color
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
