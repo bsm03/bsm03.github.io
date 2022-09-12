@@ -31,17 +31,15 @@ draft: false
 
 #### 10月1日（土）
 
-10:00 – 10:05 開会挨拶・趣旨説明 松永康佑 (埼玉大)
+- 10:00 – 10:05 開会挨拶・趣旨説明 松永康佑 (埼玉大)
 
-10:05 - 10:30 招待講演 坂上貴洋 (青山学院大学) 
-
-TBA
+- 10:05 - 10:30 招待講演 坂上貴洋 (青山学院大学) 
+    - TBA
  
-10:30 - 10:45 休憩 (short break) 
+- 10:30 - 10:45 休憩 (short break) 
  
-10:45 - 11:05
-- Gopi Soundhara Rajan (Kyoto University) 
-- TBA
+- 10:45 - 11:05 Gopi Soundhara Rajan (Kyoto University) 
+    - TBA
  
 11:05 - 11:25
 - 山内仁喬 (京都大学) 
