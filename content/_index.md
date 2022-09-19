@@ -34,29 +34,29 @@ draft: false
 - 10:00 – 10:05 開会挨拶・趣旨説明 松永康佑 (埼玉大)
 
 - 10:05 - 10:30 招待講演 坂上貴洋 (青山学院大学) 
-    - TBA
+    - Chromatin dynamics in C-elegans embryo: polymer physics approach
  
 - 10:30 - 10:45 休憩 (short break) 
  
 - 10:45 - 11:05 Gopi Soundhara Rajan (Kyoto University) 
-    - TBA
+    - Elucidating enhancer-promoter communication at Nanog gene locus using multiscale modeling approach
  
 - 11:05 - 11:25 山内仁喬 (京都大学) 
-    - TBA
+    - SMC蛋白質のDNAによって刺激されるATPase活性の分子機構解明
 
  
 - 11:25 - 11:40 休憩 (short break) 
  
 - 11:40 - 12:00 田口真彦 (量子科学技術研究開発機構) 
-    - TBA
+    - QM/MM 自由エネルギー最適化法によるタンパク質の機能発現の理解
  
 - 12:00 - 12:10 杉田有治 (理化学研究所) 
-    - TBA
+    - Biophysical Society Subgroup紹介
  
 - 12:10 - 13:30 お昼休憩 (lunch break) 
  
 - 13:30 - 13:50 大貫隼 (分子科学研究所) 
-    - TBA
+    - シュウ酸トランスポーターOxlTの未解明構造の分子動力学的探索
  
 - 13:50 - 14:10 多羅間充輔 (九州大学) 
     - TBA
@@ -64,9 +64,12 @@ draft: false
 - 14:10 - 14:25 休憩 (short break) 
  
 - 14:10 - 14:30 松永康佑 (埼玉大学) 
+    - エンドツーエンド微分可能なアプローチによる分子モデリング
+ 
+- 14:30 - 14:50 TBA
     - TBA
  
-- 14:30 - 15:25 自由討論 (free discussion) 
+- 14:50 - 15:25 自由討論 (free discussion) 
 
 - 15:25 - 15:30 閉会挨拶 森次圭 (大阪公立大)
 
