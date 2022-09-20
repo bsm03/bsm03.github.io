@@ -59,7 +59,7 @@ draft: false
     - シュウ酸トランスポーターOxlTの未解明構造の分子動力学的探索
  
 - 13:50 - 14:10 多羅間充輔 (九州大学) 
-    - TBA
+    - Coarse-grained molecular dynamics approach to phase separation of actin cytoskeleton
  
 - 14:10 - 14:25 休憩 (short break) 
  
