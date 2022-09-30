@@ -31,45 +31,47 @@ draft: false
 
 #### 10月1日（土）
 
-- 10:00 – 10:05 開会挨拶・趣旨説明 松永康佑 (埼玉大)
+市街地から空港までのバスの時刻を考慮して開始を15分遅らせました(2022年9月30日)
 
-- 10:05 - 10:30 招待講演 坂上貴洋 (青山学院大学) 
+- 10:15 – 10:20 開会挨拶・趣旨説明 松永康佑 (埼玉大)
+
+- 10:20 - 10:45 招待講演 坂上貴洋 (青山学院大学) 
     - Chromatin dynamics in C-elegans embryo: polymer physics approach
  
-- 10:30 - 10:45 休憩 (short break) 
+- 10:45 - 11:00 休憩 (short break) 
  
-- 10:45 - 11:05 Gopi Soundhara Rajan (Kyoto University) 
+- 11:00 - 11:20 Gopi Soundhara Rajan (Kyoto University) 
     - Elucidating enhancer-promoter communication at Nanog gene locus using multiscale modeling approach
  
-- 11:05 - 11:25 山内仁喬 (京都大学) 
+- 11:20 - 11:40 山内仁喬 (京都大学) 
     - SMC蛋白質のDNAによって刺激されるATPase活性の分子機構解明
 
  
-- 11:25 - 11:40 休憩 (short break) 
+- 11:40 - 11:55 休憩 (short break) 
  
-- 11:40 - 12:00 田口真彦 (量子科学技術研究開発機構) 
+- 11:55 - 12:15 田口真彦 (量子科学技術研究開発機構) 
     - QM/MM 自由エネルギー最適化法によるタンパク質の機能発現の理解
  
-- 12:00 - 12:10 杉田有治 (理化学研究所) 
+- 12:15 - 12:25 杉田有治 (理化学研究所) 
     - Biophysical Society Subgroup紹介
  
-- 12:10 - 13:30 お昼休憩 (lunch break) 
+- 12:25 - 13:45 お昼休憩 (lunch break) 
  
-- 13:30 - 13:50 大貫隼 (分子科学研究所) 
+- 13:45 - 14:05 大貫隼 (分子科学研究所) 
     - シュウ酸トランスポーターOxlTの未解明構造の分子動力学的探索
  
-- 13:50 - 14:10 多羅間充輔 (九州大学) 
+- 14:05 - 14:25 多羅間充輔 (九州大学) 
     - Coarse-grained molecular dynamics approach to phase separation of actin cytoskeleton
  
-- 14:10 - 14:25 休憩 (short break) 
+- 14:25 - 14:40 休憩 (short break) 
  
-- 14:10 - 14:30 松永康佑 (埼玉大学) 
+- 14:40 - 15:00 松永康佑 (埼玉大学) 
     - エンドツーエンド微分可能なアプローチによる分子モデリング
  
-- 14:30 - 14:50 森次圭 (大阪公立大)
+- 15:00 - 15:20 森次圭 (大阪公立大)
     - 重み付きアンサンブル法と生体分子への応用
  
-- 14:50 - 15:25 自由討論 (free discussion) 
+- 15:20 - 15:25 自由討論 (free discussion) 
 
 - 15:25 - 15:30 閉会挨拶 森次圭 (大阪公立大)
 
